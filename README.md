@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -17,4 +18,8 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->

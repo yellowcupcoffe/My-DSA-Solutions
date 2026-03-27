@@ -4,15 +4,14 @@ class Solution {
             return 0;
         }
 
-        int minPrice = prices[0]; // Track the lowest price seen
-        int maxProfit = 0;        // Track the best profit found
+        int minPrice = prices[0]; 
+        int maxProfit = 0;        
 
         for (int i = 1; i < prices.length; i++) {
-            // 1. Update minPrice if the current price is lower
-            if (prices[i] < minPrice) {
+                        if (prices[i] < minPrice) {
                 minPrice = prices[i];
             } 
-            // 2. Otherwise, check if selling today yields a better profit
+            
             else {
                 int currentProfit = prices[i] - minPrice;
                 maxProfit = Math.max(maxProfit, currentProfit);

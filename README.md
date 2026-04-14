@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->

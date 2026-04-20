@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -35,11 +36,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

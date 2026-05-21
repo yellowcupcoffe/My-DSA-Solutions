@@ -37,12 +37,14 @@
 | [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0136-single-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->

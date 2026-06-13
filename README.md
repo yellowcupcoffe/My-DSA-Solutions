@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0136-single-number/) | Easy |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |

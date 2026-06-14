@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

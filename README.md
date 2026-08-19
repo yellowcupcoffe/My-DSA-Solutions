@@ -19,6 +19,7 @@
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -41,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -103,6 +105,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +123,13 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

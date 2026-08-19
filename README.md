@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +119,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

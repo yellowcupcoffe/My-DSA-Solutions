@@ -57,6 +57,7 @@
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@
 | [0125-valid-palindrome](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
@@ -132,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

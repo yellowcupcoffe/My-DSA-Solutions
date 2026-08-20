@@ -94,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

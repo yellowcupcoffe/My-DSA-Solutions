@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

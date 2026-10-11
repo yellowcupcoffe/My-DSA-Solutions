@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -137,6 +138,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |

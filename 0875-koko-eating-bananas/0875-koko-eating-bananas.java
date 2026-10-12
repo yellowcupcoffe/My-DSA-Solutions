@@ -1,6 +1,5 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        
         int low = 1;
         int high = 0;
 
@@ -10,33 +9,28 @@ class Solution {
             }
         }
 
-        
-        
-        int result = high;
+       int result = high;
 
-        while(low <= high){
+        while(low<=high){
+            int mid = low + (high-low)/2;
 
-            int mid = low + (high - low)/2;
-
-            if(canWeEat(piles, h, mid)){
+            if(canWeEat(piles,mid,h)){
                 result = mid;
                 high = mid -1;
             } else {
-                low = mid+1;
+                low = mid + 1;
             }
         }
-         return result;
+        return result;
     }
 
-
-    private boolean canWeEat(int arr[], int hour, int speed){
+    private boolean canWeEat(int piles[], int speed, int h){
         long totalHours = 0;
 
-        for(int i=0;i<arr.length;i++){
-            totalHours+=(arr[i] + speed -1 )/speed;
-
+        for(int i=0;i<piles.length;i++){
+            totalHours+= ( piles[i] + speed -1 )/speed;
         }
 
-        return totalHours<=hour;
+        return totalHours <=h;
     }
 }

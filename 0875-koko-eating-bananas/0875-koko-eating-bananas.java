@@ -9,6 +9,8 @@ class Solution {
                 high = piles[i];
             }
         }
+
+        
         
         int result = high;
 

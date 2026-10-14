@@ -51,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -66,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -162,4 +165,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->

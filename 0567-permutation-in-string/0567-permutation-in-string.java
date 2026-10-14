@@ -5,29 +5,26 @@ class Solution {
         int[] s1Count = new int[26];
         int[] s2Count = new int[26];
 
-        for(int i=0;i<s1.length();i++){
+        for(int i =0;i<s1.length();i++){
             s1Count[s1.charAt(i) - 'a' ]++;
             s2Count[s2.charAt(i) - 'a' ]++;
         }
+
 
         for(int i=0;i<s2.length() - s1.length();i++ ){
             if(matches(s1Count, s2Count))return true;
 
             s2Count[s2.charAt(i + s1.length()) - 'a' ]++;
             s2Count[s2.charAt(i) - 'a' ]--;
-
-
-            
         }
-        boolean check = matches(s1Count , s2Count);
-        return  check;
+
+        return matches(s1Count, s2Count);
     }
 
     private boolean matches(int arr1[], int arr2[]){
         for(int i=0;i<26;i++){
-            if(arr1[i] != arr2[i] ) return false;
-                
-        }
-        return true;
+        if(arr1[i] != arr2[i] ) return false;
+    }
+    return true;
     }
 }

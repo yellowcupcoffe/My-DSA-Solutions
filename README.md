@@ -166,4 +166,12 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

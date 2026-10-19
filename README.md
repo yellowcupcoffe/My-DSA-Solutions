@@ -103,6 +103,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0197-rising-temperature](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/1148-article-views-i/) | Easy |

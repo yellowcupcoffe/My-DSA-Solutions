@@ -3,6 +3,6 @@ SELECT
     EmployeeUNI.unique_id, 
     Employees.name
 FROM 
-    EmployeeUNI
- right JOIN 
-    Employees ON Employees.id = EmployeeUNI.id;
+    Employees
+LEFT JOIN 
+    EmployeeUNI ON Employees.id = EmployeeUNI.id;

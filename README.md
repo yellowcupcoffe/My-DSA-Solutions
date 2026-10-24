@@ -189,6 +189,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -198,6 +199,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -213,6 +215,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## DP on Trees
@@ -227,4 +230,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yellowcupcoffe/My-DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
